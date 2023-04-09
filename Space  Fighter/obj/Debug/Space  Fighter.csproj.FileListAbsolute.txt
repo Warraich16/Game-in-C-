@@ -1,0 +1,7 @@
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe.config
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.exe
+E:\OOP Lab\Space  Fighter\bin\Debug\Space  Fighter.pdb
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.AssemblyReference.cache
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.csproj.CoreCompileInputs.cache
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.exe
+E:\OOP Lab\Space  Fighter\obj\Debug\Space  Fighter.pdb
